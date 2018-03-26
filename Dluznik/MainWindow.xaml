@@ -1,0 +1,24 @@
+﻿<Window x:Class="Dluznik.MainWindow"        
+        xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Dluznik"
+        mc:Ignorable="d"        
+        Title="MainWindow" Height="447.3" Width="986.4">
+
+    <Grid>
+        <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" Margin="98,34,90,50.6">
+
+
+
+        </Frame>
+        <Button Content="V2" HorizontalAlignment="Left" Margin="387,0,0,0" VerticalAlignment="Top" Width="93" Click="OpenSecond" Height="29"/>
+        <Button Content="V1" HorizontalAlignment="Left" Margin="294,0,0,0" VerticalAlignment="Top" Width="93" Click="OpenFirst" Height="29"/>
+        <Button Content="Přidat" HorizontalAlignment="Left" Margin="480,0,0,0" VerticalAlignment="Top" Width="93" Click="OpenAdd" Height="29"/>
+    </Grid>
+
+
+
+</Window>

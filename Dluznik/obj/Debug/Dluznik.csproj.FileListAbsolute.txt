@@ -1,0 +1,241 @@
+C:\Users\Starman\source\repos\Dluznik\Dluznik\bin\Debug\x86\e_sqlite3.dll
+C:\Users\Starman\source\repos\Dluznik\Dluznik\bin\Debug\x64\e_sqlite3.dll
+C:\Users\Starman\source\repos\Dluznik\Dluznik\bin\Debug\Dluznik.exe.config
+C:\Users\Starman\source\repos\Dluznik\Dluznik\bin\Debug\Dluznik.exe
+C:\Users\Starman\source\repos\Dluznik\Dluznik\bin\Debug\Dluznik.pdb
+C:\Users\Starman\source\repos\Dluznik\Dluznik\bin\Debug\SQLite-net.dll
+C:\Users\Starman\source\repos\Dluznik\Dluznik\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Starman\source\repos\Dluznik\Dluznik\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Starman\source\repos\Dluznik\Dluznik\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Starman\source\repos\Dluznik\Dluznik\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Starman\source\repos\Dluznik\Dluznik\bin\Debug\SQLite-net.pdb
+C:\Users\Starman\source\repos\Dluznik\Dluznik\bin\Debug\SQLite-net.xml
+C:\Users\Starman\source\repos\Dluznik\Dluznik\obj\Debug\MainWindow.g.cs
+C:\Users\Starman\source\repos\Dluznik\Dluznik\obj\Debug\DB\App.g.cs
+C:\Users\Starman\source\repos\Dluznik\Dluznik\obj\Debug\Dluznik_Content.g.cs
+C:\Users\Starman\source\repos\Dluznik\Dluznik\obj\Debug\Dluznik_MarkupCompile.cache
+C:\Users\Starman\source\repos\Dluznik\Dluznik\obj\Debug\Dluznik_MarkupCompile.lref
+C:\Users\Starman\source\repos\Dluznik\Dluznik\obj\Debug\MainWindow.baml
+C:\Users\Starman\source\repos\Dluznik\Dluznik\obj\Debug\Dluznik.g.resources
+C:\Users\Starman\source\repos\Dluznik\Dluznik\obj\Debug\Dluznik.Properties.Resources.resources
+C:\Users\Starman\source\repos\Dluznik\Dluznik\obj\Debug\Dluznik.csproj.GenerateResource.Cache
+C:\Users\Starman\source\repos\Dluznik\Dluznik\obj\Debug\Dluznik.csproj.CoreCompileInputs.cache
+C:\Users\Starman\source\repos\Dluznik\Dluznik\obj\Debug\Dluznik.exe
+C:\Users\Starman\source\repos\Dluznik\Dluznik\obj\Debug\Dluznik.pdb
+F:\Dluznik\Dluznik\bin\Debug\x86\e_sqlite3.dll
+F:\Dluznik\Dluznik\bin\Debug\x64\e_sqlite3.dll
+F:\Dluznik\Dluznik\bin\Debug\Dluznik.exe.config
+F:\Dluznik\Dluznik\bin\Debug\Dluznik.exe
+F:\Dluznik\Dluznik\bin\Debug\Dluznik.pdb
+F:\Dluznik\Dluznik\bin\Debug\SQLite-net.dll
+F:\Dluznik\Dluznik\bin\Debug\SQLitePCLRaw.batteries_green.dll
+F:\Dluznik\Dluznik\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+F:\Dluznik\Dluznik\bin\Debug\SQLitePCLRaw.core.dll
+F:\Dluznik\Dluznik\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\Dluznik\Dluznik\bin\Debug\SQLite-net.pdb
+F:\Dluznik\Dluznik\bin\Debug\SQLite-net.xml
+F:\Dluznik\Dluznik\obj\Debug\MainWindow.g.cs
+F:\Dluznik\Dluznik\obj\Debug\DB\App.g.cs
+F:\Dluznik\Dluznik\obj\Debug\Dluznik_Content.g.cs
+F:\Dluznik\Dluznik\obj\Debug\Dluznik_MarkupCompile.cache
+F:\Dluznik\Dluznik\obj\Debug\Dluznik_MarkupCompile.lref
+F:\Dluznik\Dluznik\obj\Debug\MainWindow.baml
+F:\Dluznik\Dluznik\obj\Debug\Dluznik.g.resources
+F:\Dluznik\Dluznik\obj\Debug\Dluznik.Properties.Resources.resources
+F:\Dluznik\Dluznik\obj\Debug\Dluznik.csproj.GenerateResource.Cache
+F:\Dluznik\Dluznik\obj\Debug\Dluznik.csproj.CoreCompileInputs.cache
+F:\Dluznik\Dluznik\obj\Debug\Dluznik.exe
+F:\Dluznik\Dluznik\obj\Debug\Dluznik.pdb
+C:\Users\Starman\Desktop\Dluznik\Dluznik\bin\Debug\x86\e_sqlite3.dll
+C:\Users\Starman\Desktop\Dluznik\Dluznik\bin\Debug\x64\e_sqlite3.dll
+C:\Users\Starman\Desktop\Dluznik\Dluznik\bin\Debug\Dluznik.exe.config
+C:\Users\Starman\Desktop\Dluznik\Dluznik\bin\Debug\Dluznik.exe
+C:\Users\Starman\Desktop\Dluznik\Dluznik\bin\Debug\Dluznik.pdb
+C:\Users\Starman\Desktop\Dluznik\Dluznik\bin\Debug\SQLite-net.dll
+C:\Users\Starman\Desktop\Dluznik\Dluznik\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Starman\Desktop\Dluznik\Dluznik\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Starman\Desktop\Dluznik\Dluznik\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Starman\Desktop\Dluznik\Dluznik\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Starman\Desktop\Dluznik\Dluznik\bin\Debug\SQLite-net.pdb
+C:\Users\Starman\Desktop\Dluznik\Dluznik\bin\Debug\SQLite-net.xml
+C:\Users\Starman\Desktop\Dluznik\Dluznik\obj\Debug\Dluznik.csprojResolveAssemblyReference.cache
+C:\Users\Starman\Desktop\Dluznik\Dluznik\obj\Debug\MainWindow.g.cs
+C:\Users\Starman\Desktop\Dluznik\Dluznik\obj\Debug\DB\App.g.cs
+C:\Users\Starman\Desktop\Dluznik\Dluznik\obj\Debug\Dluznik_Content.g.cs
+C:\Users\Starman\Desktop\Dluznik\Dluznik\obj\Debug\Dluznik_MarkupCompile.cache
+C:\Users\Starman\Desktop\Dluznik\Dluznik\obj\Debug\Dluznik_MarkupCompile.lref
+C:\Users\Starman\Desktop\Dluznik\Dluznik\obj\Debug\MainWindow.baml
+C:\Users\Starman\Desktop\Dluznik\Dluznik\obj\Debug\Dluznik.g.resources
+C:\Users\Starman\Desktop\Dluznik\Dluznik\obj\Debug\Dluznik.Properties.Resources.resources
+C:\Users\Starman\Desktop\Dluznik\Dluznik\obj\Debug\Dluznik.csproj.GenerateResource.Cache
+C:\Users\Starman\Desktop\Dluznik\Dluznik\obj\Debug\Dluznik.csproj.CoreCompileInputs.cache
+C:\Users\Starman\Desktop\Dluznik\Dluznik\obj\Debug\Dluznik.exe
+C:\Users\Starman\Desktop\Dluznik\Dluznik\obj\Debug\Dluznik.pdb
+D:\Dluznik\Dluznik\bin\Debug\x86\e_sqlite3.dll
+D:\Dluznik\Dluznik\bin\Debug\x64\e_sqlite3.dll
+D:\Dluznik\Dluznik\bin\Debug\Dluznik.exe.config
+D:\Dluznik\Dluznik\bin\Debug\Dluznik.exe
+D:\Dluznik\Dluznik\bin\Debug\Dluznik.pdb
+D:\Dluznik\Dluznik\bin\Debug\SQLite-net.dll
+D:\Dluznik\Dluznik\bin\Debug\SQLitePCLRaw.batteries_green.dll
+D:\Dluznik\Dluznik\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\Dluznik\Dluznik\bin\Debug\SQLitePCLRaw.core.dll
+D:\Dluznik\Dluznik\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Dluznik\Dluznik\bin\Debug\SQLite-net.pdb
+D:\Dluznik\Dluznik\bin\Debug\SQLite-net.xml
+D:\Dluznik\Dluznik\obj\Debug\Dluznik.csprojResolveAssemblyReference.cache
+D:\Dluznik\Dluznik\obj\Debug\MainWindow.g.cs
+D:\Dluznik\Dluznik\obj\Debug\DB\App.g.cs
+D:\Dluznik\Dluznik\obj\Debug\Dluznik_Content.g.cs
+D:\Dluznik\Dluznik\obj\Debug\Dluznik_MarkupCompile.cache
+D:\Dluznik\Dluznik\obj\Debug\Dluznik_MarkupCompile.lref
+D:\Dluznik\Dluznik\obj\Debug\MainWindow.baml
+D:\Dluznik\Dluznik\obj\Debug\Dluznik.g.resources
+D:\Dluznik\Dluznik\obj\Debug\Dluznik.Properties.Resources.resources
+D:\Dluznik\Dluznik\obj\Debug\Dluznik.csproj.GenerateResource.Cache
+D:\Dluznik\Dluznik\obj\Debug\Dluznik.csproj.CoreCompileInputs.cache
+D:\Dluznik\Dluznik\obj\Debug\Dluznik.exe
+D:\Dluznik\Dluznik\obj\Debug\Dluznik.pdb
+F:\Dluznik\Dluznik\obj\Debug\Dluznik.csprojResolveAssemblyReference.cache
+D:\fiserkl15\Dluznik\Dluznik\obj\Debug\Graf.g.cs
+D:\fiserkl15\Dluznik\Dluznik\obj\Debug\MainWindow.g.cs
+D:\fiserkl15\Dluznik\Dluznik\obj\Debug\DB\App.g.cs
+D:\fiserkl15\Dluznik\Dluznik\obj\Debug\Dluznik_Content.g.cs
+D:\fiserkl15\Dluznik\Dluznik\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\fiserkl15\Dluznik\Dluznik\obj\Debug\Dluznik_MarkupCompile.cache
+D:\fiserkl15\Dluznik\Dluznik\obj\Debug\Dluznik_MarkupCompile.lref
+D:\fiserkl15\Dluznik\Dluznik\bin\Debug\x86\e_sqlite3.dll
+D:\fiserkl15\Dluznik\Dluznik\bin\Debug\x64\e_sqlite3.dll
+D:\fiserkl15\Dluznik\Dluznik\bin\Debug\Dluznik.exe.config
+D:\fiserkl15\Dluznik\Dluznik\bin\Debug\Dluznik.exe
+D:\fiserkl15\Dluznik\Dluznik\bin\Debug\Dluznik.pdb
+D:\fiserkl15\Dluznik\Dluznik\bin\Debug\LiveCharts.dll
+D:\fiserkl15\Dluznik\Dluznik\bin\Debug\LiveCharts.Wpf.dll
+D:\fiserkl15\Dluznik\Dluznik\bin\Debug\SQLite-net.dll
+D:\fiserkl15\Dluznik\Dluznik\bin\Debug\SQLitePCLRaw.batteries_green.dll
+D:\fiserkl15\Dluznik\Dluznik\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\fiserkl15\Dluznik\Dluznik\bin\Debug\SQLitePCLRaw.core.dll
+D:\fiserkl15\Dluznik\Dluznik\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\fiserkl15\Dluznik\Dluznik\bin\Debug\LiveCharts.pdb
+D:\fiserkl15\Dluznik\Dluznik\bin\Debug\LiveCharts.xml
+D:\fiserkl15\Dluznik\Dluznik\bin\Debug\LiveCharts.Wpf.pdb
+D:\fiserkl15\Dluznik\Dluznik\bin\Debug\LiveCharts.Wpf.xml
+D:\fiserkl15\Dluznik\Dluznik\bin\Debug\SQLite-net.pdb
+D:\fiserkl15\Dluznik\Dluznik\bin\Debug\SQLite-net.xml
+D:\fiserkl15\Dluznik\Dluznik\obj\Debug\Graf.baml
+D:\fiserkl15\Dluznik\Dluznik\obj\Debug\MainWindow.baml
+D:\fiserkl15\Dluznik\Dluznik\obj\Debug\Dluznik.g.resources
+D:\fiserkl15\Dluznik\Dluznik\obj\Debug\Dluznik.Properties.Resources.resources
+D:\fiserkl15\Dluznik\Dluznik\obj\Debug\Dluznik.csproj.GenerateResource.Cache
+D:\fiserkl15\Dluznik\Dluznik\obj\Debug\Dluznik.csproj.CoreCompileInputs.cache
+D:\fiserkl15\Dluznik\Dluznik\obj\Debug\Dluznik.exe
+D:\fiserkl15\Dluznik\Dluznik\obj\Debug\Dluznik.pdb
+D:\fiserkl15\Dluznik\Dluznik\obj\Debug\Dluznik.csprojResolveAssemblyReference.cache
+D:\fiserkl15\Dluznik V2\Dluznik\bin\Debug\x86\e_sqlite3.dll
+D:\fiserkl15\Dluznik V2\Dluznik\bin\Debug\x64\e_sqlite3.dll
+D:\fiserkl15\Dluznik V2\Dluznik\bin\Debug\Dluznik.exe.config
+D:\fiserkl15\Dluznik V2\Dluznik\bin\Debug\Dluznik.exe
+D:\fiserkl15\Dluznik V2\Dluznik\bin\Debug\Dluznik.pdb
+D:\fiserkl15\Dluznik V2\Dluznik\bin\Debug\LiveCharts.dll
+D:\fiserkl15\Dluznik V2\Dluznik\bin\Debug\LiveCharts.Wpf.dll
+D:\fiserkl15\Dluznik V2\Dluznik\bin\Debug\SQLite-net.dll
+D:\fiserkl15\Dluznik V2\Dluznik\bin\Debug\SQLitePCLRaw.batteries_green.dll
+D:\fiserkl15\Dluznik V2\Dluznik\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\fiserkl15\Dluznik V2\Dluznik\bin\Debug\SQLitePCLRaw.core.dll
+D:\fiserkl15\Dluznik V2\Dluznik\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\fiserkl15\Dluznik V2\Dluznik\bin\Debug\LiveCharts.pdb
+D:\fiserkl15\Dluznik V2\Dluznik\bin\Debug\LiveCharts.xml
+D:\fiserkl15\Dluznik V2\Dluznik\bin\Debug\LiveCharts.Wpf.pdb
+D:\fiserkl15\Dluznik V2\Dluznik\bin\Debug\LiveCharts.Wpf.xml
+D:\fiserkl15\Dluznik V2\Dluznik\bin\Debug\SQLite-net.pdb
+D:\fiserkl15\Dluznik V2\Dluznik\bin\Debug\SQLite-net.xml
+D:\fiserkl15\Dluznik V2\Dluznik\obj\Debug\Dluznik.csprojResolveAssemblyReference.cache
+D:\fiserkl15\Dluznik V2\Dluznik\obj\Debug\Graf.g.cs
+D:\fiserkl15\Dluznik V2\Dluznik\obj\Debug\MainWindow.g.cs
+D:\fiserkl15\Dluznik V2\Dluznik\obj\Debug\DB\App.g.cs
+D:\fiserkl15\Dluznik V2\Dluznik\obj\Debug\Dluznik_Content.g.cs
+D:\fiserkl15\Dluznik V2\Dluznik\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\fiserkl15\Dluznik V2\Dluznik\obj\Debug\Dluznik_MarkupCompile.cache
+D:\fiserkl15\Dluznik V2\Dluznik\obj\Debug\Dluznik_MarkupCompile.lref
+D:\fiserkl15\Dluznik V2\Dluznik\obj\Debug\Graf.baml
+D:\fiserkl15\Dluznik V2\Dluznik\obj\Debug\MainWindow.baml
+D:\fiserkl15\Dluznik V2\Dluznik\obj\Debug\Dluznik.g.resources
+D:\fiserkl15\Dluznik V2\Dluznik\obj\Debug\Dluznik.Properties.Resources.resources
+D:\fiserkl15\Dluznik V2\Dluznik\obj\Debug\Dluznik.csproj.GenerateResource.Cache
+D:\fiserkl15\Dluznik V2\Dluznik\obj\Debug\Dluznik.csproj.CoreCompileInputs.cache
+D:\fiserkl15\Dluznik V2\Dluznik\obj\Debug\Dluznik.exe
+D:\fiserkl15\Dluznik V2\Dluznik\obj\Debug\Dluznik.pdb
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\bin\Debug\x86\e_sqlite3.dll
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\bin\Debug\x64\e_sqlite3.dll
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\bin\Debug\Dluznik.exe.config
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\bin\Debug\Dluznik.exe
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\bin\Debug\Dluznik.pdb
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\bin\Debug\LiveCharts.dll
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\bin\Debug\LiveCharts.Wpf.dll
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\bin\Debug\SQLite-net.dll
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\bin\Debug\SQLitePCLRaw.batteries_green.dll
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\bin\Debug\SQLitePCLRaw.core.dll
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\bin\Debug\LiveCharts.pdb
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\bin\Debug\LiveCharts.xml
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\bin\Debug\LiveCharts.Wpf.pdb
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\bin\Debug\LiveCharts.Wpf.xml
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\bin\Debug\SQLite-net.pdb
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\bin\Debug\SQLite-net.xml
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\obj\Debug\Dluznik.csprojResolveAssemblyReference.cache
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\obj\Debug\Graf.g.cs
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\obj\Debug\MainWindow.g.cs
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\obj\Debug\DB\App.g.cs
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\obj\Debug\Dluznik_Content.g.cs
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\obj\Debug\Dluznik_MarkupCompile.cache
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\obj\Debug\Dluznik_MarkupCompile.lref
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\obj\Debug\Graf.baml
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\obj\Debug\MainWindow.baml
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\obj\Debug\Dluznik.g.resources
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\obj\Debug\Dluznik.Properties.Resources.resources
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\obj\Debug\Dluznik.csproj.GenerateResource.Cache
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\obj\Debug\Dluznik.csproj.CoreCompileInputs.cache
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\obj\Debug\Dluznik.exe
+D:\fiserkl15\OLD\Dluznik V2\Dluznik\obj\Debug\Dluznik.pdb
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\bin\Debug\x86\e_sqlite3.dll
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\bin\Debug\x64\e_sqlite3.dll
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\bin\Debug\Dluznik.exe.config
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\bin\Debug\Dluznik.exe
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\bin\Debug\Dluznik.pdb
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\bin\Debug\LiveCharts.dll
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\bin\Debug\SQLite-net.dll
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\bin\Debug\LiveCharts.pdb
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\bin\Debug\LiveCharts.xml
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\bin\Debug\SQLite-net.pdb
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\bin\Debug\SQLite-net.xml
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\obj\Debug\Graf.g.cs
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\obj\Debug\MainWindow.g.cs
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\obj\Debug\DB\App.g.cs
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\obj\Debug\Dluznik_Content.g.cs
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\obj\Debug\Dluznik_MarkupCompile.cache
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\obj\Debug\Dluznik_MarkupCompile.lref
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\obj\Debug\Graf.baml
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\obj\Debug\MainWindow.baml
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\obj\Debug\Dluznik.g.resources
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\obj\Debug\Dluznik.Properties.Resources.resources
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\obj\Debug\Dluznik.csproj.GenerateResource.Cache
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\obj\Debug\Dluznik.csproj.CoreCompileInputs.cache
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\obj\Debug\Dluznik.exe
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\obj\Debug\Dluznik.pdb
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\obj\Debug\DruhaVerze.g.cs
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\obj\Debug\DruhaVerze.baml
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\obj\Debug\Dluznik.csprojResolveAssemblyReference.cache
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\obj\Debug\Pridavani.g.cs
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\obj\Debug\Pridavani.baml
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\obj\Debug\PrvniVerze.g.cs
+C:\Users\Starman\Desktop\Dluznik V2\Dluznik\obj\Debug\PrvniVerze.baml

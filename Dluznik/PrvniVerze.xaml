@@ -1,0 +1,61 @@
+﻿<Page x:Class="Dluznik.PrvniVerze"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Dluznik"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="780"
+      Title="PrvniVerze">
+
+    <Grid>
+        <Grid x:Name="dsf">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition>
+                </ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <local:Graf Grid.Column="2" Grid.Row="0" Grid.RowSpan="4"/>
+            <StackPanel Orientation="Horizontal" Grid.Column="0">
+                <ComboBox x:Name="MTHTR" HorizontalAlignment="Left" VerticalAlignment="Top"  Margin="0,20,0,0" Width="50" SelectionChanged="MTHTR_SelectionChanged"/>
+                <ComboBox x:Name="yearcb" HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="10,20,0,0" Width="50" SelectionChanged="yearcb_SelectionChanged"/>
+                <ComboBox x:Name="SeznamyCB" HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="10,20,0,0" Width="50" SelectionChanged="Seznamy_SelectionChanged" />
+
+            </StackPanel>
+
+
+        
+
+
+
+
+
+           
+
+
+            <ListBox x:Name="TransakceLV" Grid.Column="0" Grid.Row="1" Grid.RowSpan="2" HorizontalAlignment="Left" Height="129"  VerticalAlignment="Top" Width="246" SelectionChanged="TransakceLV_SelectionChanged"/>
+
+            <StackPanel Orientation="Horizontal" Grid.Column="0" Grid.Row="3">
+                <Label x:Name="all" Content="Celkové výdaje za " HorizontalAlignment="Left" Height="34" VerticalAlignment="Top" Width="106"/>
+                <Label x:Name="mthlbl" HorizontalAlignment="Left" Height="34" Margin="10,0,0,0" VerticalAlignment="Top" Width="56"/>
+                <Label x:Name="price" HorizontalAlignment="Left" Height="34" Margin="10,0,0,0" VerticalAlignment="Top" Width="58"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Column="0" Grid.Row="3" VerticalAlignment="Bottom">
+                <Button x:Name="Deletebutton"  Visibility="Hidden" Content="Smazat" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="90"  Click="Delete_Click"  />
+                
+            </StackPanel>
+
+            <TextBox x:Name="IDTB" Visibility="Hidden" HorizontalAlignment="Left" Height="28" Margin="5,24,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="29"/>
+
+        </Grid>
+
+    </Grid>
+</Page>
